@@ -5,7 +5,11 @@ public class Main {
         int x = 5;
         int y = 10;
 
-        System.out.print("You have integers" + " " + y + " " + x);
+        System.out.println("You have integers" + " " + y + " " + x);
+
+        x = y;
+
+        System.out.print("integer X is now " + x);
 
     }
 }
