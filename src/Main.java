@@ -11,5 +11,8 @@ public class Main {
 
         System.out.print("integer X is now " + x);
 
+        x = 15
+
+        System.out.print("integer X is now " + x);
     }
 }
